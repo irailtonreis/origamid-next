@@ -12,7 +12,7 @@ export default function Menu() {
         </Link>
       </li>
       <li>
-        <Link href="/contato">Contato</Link>
+        <Link href="/produtos">Produtos</Link>
       </li>
       <li>
       <Link href="/imc" >
