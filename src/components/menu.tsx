@@ -19,6 +19,11 @@ export default function Menu() {
           Imc
         </Link>
       </li>
+      <li>
+      <Link href="/cursos" >
+          Cursos
+        </Link>
+      </li>
     </ul>
   );
 }
